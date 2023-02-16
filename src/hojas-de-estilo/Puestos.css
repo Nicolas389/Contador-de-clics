@@ -1,0 +1,50 @@
+/* cajas de encabezado de la tabla */
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+  }
+
+table {    
+    border-collapse: collapse;
+    border: 8px white solid;   
+    background-color:#013d53;
+}
+
+.titulo-nombre{   
+    width: 300px;    
+    font-size: 30px;
+    font-family:sans-serif;
+    color: white;
+    border-bottom: 8px white solid;   
+    padding: 5px 10px 5px 10px;   
+}
+
+.titulo-puntos{   
+    width: 150px;    
+    font-size: 30px;
+    font-family:sans-serif;
+    color: white;
+    border-left: 8px white solid;
+    border-bottom: 8px white solid;   
+    padding: 5px 10px 5px 10px;   
+}
+
+td{    
+    padding: 5px 10px 5px 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold; 
+    border-left: 8px white solid;    
+    
+}
+
+.puntos{
+    color: white;
+    padding: 5px 50px 5px 60px;
+
+}
+
+
+
+

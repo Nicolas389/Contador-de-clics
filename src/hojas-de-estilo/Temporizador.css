@@ -1,0 +1,12 @@
+.inicio{
+    width: 1%;
+}
+
+.final{
+    width: 100%;
+}
+
+.animacion{
+    transition: all 30s ease 0.1s;
+}
+

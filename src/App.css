@@ -37,3 +37,13 @@ body, html {
   align-items: center;
   justify-content: center;
 }
+
+.contenedor.puestos{
+  height: 550px;
+  min-width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
